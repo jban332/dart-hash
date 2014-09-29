@@ -1,3 +1,8 @@
+Do not use this library!
+========================
+It was written in early 2012 when there was no other crypto library available.
+The syntax is no longer supported by Dart.
+
 Dart-hash
 =========
 Dart-hash is a hash function library for Dart.
